@@ -11,6 +11,6 @@ int main(){
 	string name1 = "Michael Duenas";
 	hello1Function(name1);	//calls hello world function
 	string name2 = "Nathan Tran";
-	hello2Function(name1);	//calls hello world function 2
+	hello2Function(name2);	//calls hello world function 2
 	return 0;
 }
